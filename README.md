@@ -2,24 +2,25 @@
 ## Instructor: [Tiffany France][instructor url]
 
 
-[COURSE DESCRIPTION]
+D3 is a JavaScript library for creating data-driven documents, with powerful visualization and DOM manipulation components. If you want to generate beautiful charts, diagrams, or maps to represent your data, D3 is a great choice. 
+
+In this course, Envato Tuts+ instructor Tiffany France will show you how to use D3 and JavaScript to build two separate charts using CSV data. You'll get to follow along as she designs and implements each chart. Along the way, you'll learn how to combine visual thinking with JavaScript programming principles to create a beautiful and easy-to understand infographic for your users.
 
 
 ## Source Files Description
 
 
-This repository contains the source code for the completed course project.
+This repository contains the completed course project: visualization of sample CSV bank data. 
 
-This repository contains the completed source code for the course project - a simple Ruby image gallery.
-
-This repository contains the source to each exercise and sample project that was built throughout the course.
-
-The source files contain the Node.js app we are going to use as an example application in this course. It uses MongoDB and Redis for data and session storage, as well as socket.io for real-time communication with the client.
+ - `d3.min.js`: the minified D3 library
+ - `activity.csv`: the sample data in CSV format
+ - `loaddata.js`, `pie.js`, `timeline.js`: the implementation of the visualization
+ - `index.html`: the visualization page
 
 
 ## 3rd-Party Content
 
-The following [] are sourced from [] and licensed under Creative Commons [CC BY-2.0](https://creativecommons.org/licenses/by/2.0/) or [CC BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/).
+The D3 library is licensed under the [BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause).
 
 ------
 
