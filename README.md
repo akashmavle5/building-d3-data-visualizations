@@ -12,7 +12,6 @@ In this course, Envato Tuts+ instructor Tiffany France will show you how to use 
 
 This repository contains the completed course project: visualization of sample CSV bank data. 
 
- - `d3.min.js`: the minified D3 library
  - `activity.csv`: the sample data in CSV format
  - `loaddata.js`, `pie.js`, `timeline.js`: the implementation of the visualization
  - `index.html`: the visualization page
