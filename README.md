@@ -22,7 +22,7 @@ The latest version of D3, version 4, is not backwards compatible with version 3 
 
 The GitHub repo for the course project has been updated to version 4 of D3. You can see the changes in the [commit diff report](https://github.com/tutsplus/building-d3-data-visualizations/commit/1bf61ab97bb6f146b0ad5554d81cd427e68df3ad). 
 
-You can also view an [annotated list of changes for each lesson in the course]().
+You can also view an [annotated list of changes for each lesson in the course](https://github.com/tutsplus/building-d3-data-visualizations/blob/master/UPDATE_TO_D3_V4.md).
 
 
 
