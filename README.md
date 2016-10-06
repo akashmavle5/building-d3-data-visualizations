@@ -17,6 +17,15 @@ This repository contains the completed course project: visualization of sample C
  - `loaddata.js`, `pie.js`, `timeline.js`: the implementation of the visualization
  - `index.html`: the visualization page
 
+## Update to D3 Version 4
+
+The latest version of D3, version 4, is not backwards compatible with version 3 used in this course. Some of the major changes to the library include breaking its functionality into [smaller modules](https://github.com/d3), and a change from a logical, nested namespace to a flat namespace (eg. `d3.svg.arc` has changed to `d3.arc`).
+
+The GitHub repo for the course project has been updated to version 4 of D3. You can see the changes in the [commit diff report](https://github.com/tutsplus/building-d3-data-visualizations/commit/1bf61ab97bb6f146b0ad5554d81cd427e68df3ad). 
+
+You can also view an [annotated list of changes for each lesson in the course]().
+
+
 
 ## 3rd-Party Content
 
