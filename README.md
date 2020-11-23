@@ -1,5 +1,5 @@
 # [Building D3 Data Visualizations][published url]
-## Instructor: [Tiffany France][instructor url]
+## Instructor: [Akash Mavle][instructor url]
 
 
 D3 is a JavaScript library for creating data-driven documents, with powerful visualization and DOM manipulation components. If you want to generate beautiful charts, diagrams, or maps to represent your data, D3 is a great choice. 
